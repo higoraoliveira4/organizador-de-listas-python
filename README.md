@@ -37,13 +37,15 @@ Com isso, o exercício ajuda a reforçar conceitos importantes da linguagem Pyth
 
 ## Exemplo de Uso
 
-Digite um valor: 4
-Deseja continuar? [S/N] S
-Digite um valor: 7
-Deseja continuar? [S/N] S
-Digite um valor: 10
-Deseja continuar? [S/N] N
+Entrada:
+- Digite um valor: 4
+- Deseja continuar? [S/N] S
+- Digite um valor: 7
+- Deseja continuar? [S/N] S
+- Digite um valor: 10
+- Deseja continuar? [S/N] N
 
-A lista completa é [4, 7, 10]
-A lista de pares é [4, 10]
-A lista de ímpares é [7]
+Saída:
+- A lista completa é [4, 7, 10]
+- A lista de pares é [4, 10]
+- A lista de ímpares é [7]
